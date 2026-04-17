@@ -1,0 +1,25 @@
+site_name: Scenario Session
+theme:
+  name: material
+  logo: ""
+
+  features:
+    #- navigation.tabs # uncomment this to make navigation on top
+    - navigation.sections
+    - toc.integrate
+    - navigation.footer
+
+nav:
+- 'index.md'
+- 'particularly.md'
+- 'gamification.md'
+- 'colombia.md'
+- 'lessons.md'
+- 'pastoralist.md'
+- 'evacuategame.md'
+- 'evacuateresults.md'
+
+extra:
+  analytics:
+    provider: google
+    property: G-QHP6G2MPHB
