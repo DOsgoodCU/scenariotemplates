@@ -1,4 +1,4 @@
-site_name: Scenario Session
+site_name: Scenario Templates
 theme:
   name: material
   logo: ""
@@ -11,15 +11,25 @@ theme:
 
 nav:
 - 'index.md'
-- 'particularly.md'
+- 'land.md'
+- 'disastercommunication.md'
 - 'gamification.md'
-- 'colombia.md'
-- 'lessons.md'
-- 'pastoralist.md'
 - 'evacuategame.md'
 - 'evacuateresults.md'
+- 'evacuatelatest.md'
+- 'yourownevacuate.md'
+- 'shelterchallenges.md'
+- 'sheltergame.md'
+- 'shelterresults.md'
+- 'shelteradvice.md'
+- 'yourownshelter.md'
+- 'end.md'
 
 extra:
   analytics:
     provider: google
     property: G-QHP6G2MPHB
+
+markdown_extensions:
+  - toc:
+      toc_depth: 1

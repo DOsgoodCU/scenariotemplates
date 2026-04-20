@@ -1,30 +1,18 @@
-#Your thoughts? Storm/Evacuation/Shelter? 
-![](platformscreenshot.jpg)
+# Sensitive Issue Safe Space: Evacuation Template
 
-- We are building a public domain platform for disaster experts to set up their own games.
-- We have been thinking about disaster games in the US and need your thoughts.
-- Interface, usefulness, appropriate applications, accuracy access to all voices, bias, equity, privacy?...
-- I have used the design interface put together a quick illustration of what the first few steps of a hypothetical game might be to get the discussion going
+We would like your thoughts on good wording for this simulation for the upcoming event.  For example, "homeowner" may not be appropriate.  Please be thinking of these things as you go through the simulation.  
+Afterwards we will ask you for your feedback.
 
-**Send message:**
+## Lets work through the Simulation Template
 
-**“Evacuate” to**
+## **Send message:**
 
-**+1 (646) 217-0881**
+## **“Evacuate” to**
 
-**#bye to escape**
+# **+1 (646) 217-0881**
 
-## What game would you make?
-- What would the game be about?
-- What is an example question?
-- Sending information vs gathering information from people?
-- How realistic vs. hypothetical?
-- Fun or “exercise” (how much to frame as a game)?
-- Who is your target audience, for example, players?
-- Potential concerns?
-- What strategies would you use to make sure different voices are represented?
-- What strategies would you use to filter people playing for fun vs those sharing real knowledge?
-Other thoughts?
-Existing Simulations, Tabletops that might connect?
+## **#bye to escape**
 
-This game tool was developed under from the National Science Foundation under Grant No. 2103794. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+## If this is a live session, please wait for guidance from me when it says wait until the scenario manager instructs you to proceed.
+
+## You can use regular text messages or whatsapp 

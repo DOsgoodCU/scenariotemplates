@@ -1,33 +1,18 @@
-#Results!
+#Evacuate Results!
 
-Below are some most recent results from players of the game up until this website was published. 
+Below are some most recent results from a previous simulation session. 
 
+The literature says people with animals are less likely to evacuate, (eg doi.org/10.3390/ani5020173)
 
-In the literature, it is documented that homeowners and pet owners are less likely to evacuate because they want to protect their homes and their animals.  
+Below are some results--what do you see? 
+  
+![](oldevacuate.png)
 
-- What do you see in the results? 
-- What would you do as a next step
-	- Dig deeper into the questions?
-	- Move away from a game to more formal planning?
-	- Other thoughts?
+![](oldevacrole.png)
 
-Note that these figures may be old, or if there is a live session right now, 
-they may be the result of only today's entries.
+Animal owners were less likely to evacuate and renters were most likely to evacuate in that session, reflecting what has been seen in the literature.  
 
-![](evacuation_overall.png)
-![](player_breakdown.png)
-![](evacuation_by_type.png)
+For disaster preparedness, actions could be taken, such as providing transportation and shelter that has the capacity to support animals.
 
-
-## Contact info:
-Daniel Osgood, PhD
-Financial Instruments Division Lead
-1.212.853.5720
-Daniel.Osgood@columbia.edu 
-
-National Center for Disaster Preparedness, IRI Affiliate
-
-475 Riverside Drive, Suite 820
-New York, NY 10115-0095
-ncdp@columbia.edu  https://ncdp.columbia.edu/fi
+What other follow up actions and communications could be done?
 

@@ -1,24 +1,17 @@
-# Evacuation Coordination
+# Scenario templates for community disaster coordination
 
-<img src="womanphone.png" alt="Woman with Phone" style="width:200px;">
+## This is a practical exercise to discuss the potential and challenges in Tribal Nations disaster communication using modern two way text technologies.
 
-## Coordination is hard when people must commit to choices.
+<img src="sunset.png" alt="Sunset" style="width:400px;">
 
-- Government leadership plays a central role
-- Many individuals/families commit to their own choices
-- Massive amount occurring in the informal domain
+**National Center for Disaster Preparedness, Columbia University**
 
-Not only communicating data:
+**Funding provided by Twilio**
 
-- Inform people, learn from people, coordinate decisions
+Much of this software was developed by the Wu Lab in the Department of Computer Science and the National Center for Disaster Preparedness in the Climate School, both at Columbia University.  The US National Science Foundation funded much of the software infrastructure used.
 
-We have over a decade of tools and platforms to support this governance, information exchange, and coordinated decision making
+This is a pilot presentation for the 
+Great Plains Tribal Leaders Health Board 
+2026 Regional Tribal Emergency Management Summit 
 
-Early US work:
-
-- Drought information, water markets, and farm planting choices 
-- Coordinating seed planting in Arizona
-
-<img src="yumapinmap.png" alt="" style="width:500px;">
-
-This work was performed by the Wu Lab in the Department of Computer Science and the National Center for Disaster Preparedness in the Climate School, both at Columbia University.  The US National Science Foundation funded much of the software infrastructure used.
+Contact: Daniel.Osgood@columbia.edu
